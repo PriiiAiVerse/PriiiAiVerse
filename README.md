@@ -1,16 +1,92 @@
-## Hi there 👋
+# 👋 Hey ...welcome to my verse 
+<!-- Anime / AI Game Aesthetic Banner -->
+<p align="center">
+  <img src="https://media1.tenor.com/m/MNn4jpLnxgAAAAAd/happy-chopper.gif" width="300px"/>
+</p>
 
-<!--
-**PriiiAiVerse/PriiiAiVerse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">I'm Priti Kumari 👩‍💻</h1>
+<h3 align="center">AI/ML Explorer | Deep Learning Enthusiast | LLM Builder | Joycaster ⚡</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👾 About Me
+
+Hi! I'm a passionate student with a mind constantly orbiting the world of Artificial Intelligence. My fascination began in 2023, when I picked up Python — and I haven’t looked back since.
+
+> 🕒 Although I started uploading to GitHub recently, I’ve been working on AI/ML projects since late 2023 — focusing first on learning deeply before curating my work here.
+
+### 🧠 My Journey So Far
+
+- **2023** — Started with Python, building small projects to understand programming fundamentals.
+- **Early 2024** — Entered the world of ML with datasets, classification , regression models and hands-on data exploration through Power BI dashboards.
+- **Mid-Late 2024** — Unexpectedly immersed in deep learning ! Explored CNNs and worked with **VGG16**, **ResNet**, **InceptionV3**, **UNet**, and **MobileNet**.
+- **Early 2025** — Even had a chance to write  **research paper ** on Autism Spectrum Disorder using InceptionV3.
+- **2025** — Inspired by OpenAI and DeepSeek, I entered **NLP & LLMs**, exploring **transformers**, **LLMs**, and now building **AI agents** using tools like LangChain and LangGraph.
+
+I love blending science with storytelling — and I'm always ready to turn models into magic.
+
+---
+
+## 🧰 Tools & Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,keras,jupyter,git,github,powerbi,vscode&theme=light" />
+</p>
+
+- 🔮 **AI/ML:** Scikit-learn, XGBoost, CNNs, Transfer Learning  
+- 📊 **Data Analysis:** Power BI, Matplotlib, Seaborn, Pandas  
+- 🗣️ **NLP & LLMs:** Transformers, Hugging Face, LangChain  
+- 🤖 **In Progress:** LangGraph, OpenAI Agents, Prompt Engineering
+
+---
+
+## 🎮 Projects That Power Up My XP
+
+| 🧪 Project | 💡 Description | 🧰 Tools |
+|-----------|----------------|---------|
+| 🧠 **Vision Classifier** | Built deep learning pipelines using VGG16, ResNet, and MobileNet | TensorFlow, Keras |
+| 💬 **Sentiment Analyzer** | Text-based emotion detection using LSTM + transformers | Hugging Face, NLTK |
+| 📊 **BI Dashboard** | Sales and insights via dynamic Power BI reports | Power BI, DAX |
+| 🤖 **LLM Agent (WIP)** | LangGraph-based LLM reasoning agent | LangChain, OpenAI, Python |
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=tokyo-night" />
+</p>
+
+---
+
+## 🎀 Fun Side of Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
+  <img src="https://media.tenor.com/I6kN-6X7nhAAAAAj/anime-wave.gif" width="250px" />
+</p>
+
+- 🎮 I love anime-inspired tech themes  
+- 🌌 Favorite themes: futuristic tech, cyberpunk AI, and character-driven design  
+- 👾 I believe in coding with creativity & curiosity
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🧠 [Portfolio / Blog (Optional)](https://yourwebsite.com)
+- 📧 Email: your.email@example.com
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blueviolet&style=flat-square" />
+</p>
+
+---
+
+<p align="center"><i>“In a world full of code, I choose to build minds.”</i></p>
