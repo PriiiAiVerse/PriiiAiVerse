@@ -62,7 +62,7 @@ I love blending science with storytelling — and I'm always ready to turn model
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=tokyo-night" />
 </p>
 
----
+---------
 
 ## 🎀 Fun Side of Me
 
@@ -75,17 +75,13 @@ I love blending science with storytelling — and I'm always ready to turn model
 - 🌌 Favorite themes: futuristic tech, cyberpunk AI, and character-driven design  
 - 👾 I believe in coding with creativity & curiosity
 
----
+---------
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/priti-kumari-651107355/)
 - 🧠 [Portfolio / Blog (Optional)](https://yourwebsite.com)
-- 📧 Email: your.email@example.com
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=blueviolet&style=flat-square" />
-</p>
+- 📧 Email: pritikumari000214@gmail.com
 
 ---
 
