@@ -30,13 +30,23 @@ I love blending science with storytelling — and I'm always ready to turn model
 ## 🧰 Tools & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,keras,jupyter,git,github,powerbi,vscode&theme=light" />
+  <!-- Common Languages -->
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" />
+
+  <!-- Custom Icons -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" title="Jupyter Notebook" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" title="Keras" width="40" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"  width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" title="TensorFlow" width="40" />
 </p>
 
-- 🔮 **AI/ML:** Scikit-learn, XGBoost, CNNs, Transfer Learning  
-- 📊 **Data Analysis:** Power BI, Matplotlib, Seaborn, Pandas  
-- 🗣️ **NLP & LLMs:** Transformers, Hugging Face, LangChain  
-- 🤖 **In Progress:** LangGraph, OpenAI Agents, Prompt Engineering
+---
+
+- 🔮 **AI/ML:** [Scikit-learn](https://scikit-learn.org/), [TensorFlow](https://www.tensorflow.org/), [Keras](https://keras.io/), [XGBoost](https://xgboost.ai/)
+- 🧠 **Deep Learning:** CNNs, Transfer Learning (VGG16, ResNet, UNet, MobileNet, Inception)
+- 📊 **Data Analysis:** [Power BI](https://powerbi.microsoft.com/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)
+- 🗣️ **NLP/LLMs:** [Hugging Face](https://huggingface.co/), [LangChain](https://www.langchain.com/), [Transformers](https://huggingface.co/transformers/)
+- 🧪 **In Progress:** [LangGraph](https://langgraph.dev/), Prompt Engineering, AI Agents
 
 ---
 
