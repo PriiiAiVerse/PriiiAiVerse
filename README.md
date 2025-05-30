@@ -61,18 +61,6 @@ I love blending science with storytelling — and I'm always ready to turn model
 
 ---
 
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=tokyo-night" />
-</p>
-
----------
 
 ## 🎀 Fun Side of Me
 
