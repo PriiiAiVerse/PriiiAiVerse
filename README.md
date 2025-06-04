@@ -103,7 +103,7 @@ timeline
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/priti-kumari-651107355/)
-- 🧠 [Portfolio / Blog ( In Progress )](https://yourwebsite.com)
+- 🧠 [Portfolio / Blog  ] ( In Progress ) (https://yourwebsite.com)
 - 📧 Email: pritikumari000214@gmail.com
 
 ---
