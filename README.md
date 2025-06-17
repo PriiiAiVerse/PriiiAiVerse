@@ -112,9 +112,14 @@ I applied machine learning and deep learning to structured and image data. This 
 - **[Autism-Detection-in-Children](https://github.com/PriiiAiVerse/Autism-Detection-in-Children)**  
   Built a CNN model using transfer learning (VGG16) for classifying autistic vs. non-autistic children.
 
-- **[Spam-Classifier](https://github.com/PriiiAiVerse/Spam-Classifier)**  
-  Implemented a basic text classifier to separate spam news articles using scikit-learn.
+- **[A-B-testing](https://github.com/PriiiAiVerse/A-B-testing)**  
+  Project investigates whether displaying advertisements increases user conversions using A/B testing.
 
+-  **[Breast-Histopathology-Image-Classification](https://github.com/PriiiAiVerse/Breast-Histopathology-Image-Classification)**  
+   Project is focused on building a Convolutional Neural Network (CNN) to classify breast cancer histopathology images.
+
+ - **[Spam_classifier](https://github.com/PriiiAiVerse/Spam-Classifier/blob/main/Spam_classifier.ipynb)**  
+  Project building a machine learning model to detect spam messages from SMS text data.
 ---
 
 ### 🎬 Recommendation Systems  
