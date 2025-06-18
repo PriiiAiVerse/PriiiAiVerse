@@ -204,7 +204,7 @@ These beginner to intermediate-level mini projects were fun ways to practice Pyt
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/priti-kumari-651107355/)
-- 🧠 [Portfolio / Blog  ] ( In Progress ) (https://yourwebsite.com)
+- 🧠 [Portfolio / Blog  ] ( In Progress ) (https://priiiaiverse.github.io/Resume/)
 - 📧 Email: pritikumari000214@gmail.com
 
 ---
