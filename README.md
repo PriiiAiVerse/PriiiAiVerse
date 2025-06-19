@@ -120,6 +120,13 @@ I applied machine learning and deep learning to structured and image data. This 
 
  - **[Spam_classifier](https://github.com/PriiiAiVerse/Spam-Classifier/blob/main/Spam_classifier.ipynb)**  
   Project building a machine learning model to detect spam messages from SMS text data.
+
+  - **[Sentiment-Analysis-Experiment-Using-Different-Model](https://github.com/PriiiAiVerse/Sentiment-Analysis-Experiment-Using-Different-Model)**  
+  Deep Learning Project build using embeddings and Bidirectional LSTM to analyse the Sentiment of Users.
+
+  - **[Deep-Learning-Part--2-](https://github.com/PriiiAiVerse/Deep-Learning-Part--2-)**  
+  Project building a basic CNN structure to understand how each layers contibute to model.
+
 ---
 
 ### 🎬 Recommendation Systems  
