@@ -1,6 +1,7 @@
 # 👋 Hey ...welcome to my verse 
 <!-- Anime / AI Game Aesthetic Banner -->
 <p align="center">
+  
   <img src="https://media1.tenor.com/m/MNn4jpLnxgAAAAAd/happy-chopper.gif" width="300px"/>
 </p>
 
